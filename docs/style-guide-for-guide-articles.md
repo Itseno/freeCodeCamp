@@ -6,7 +6,7 @@ We recommend the following guidelines to writing Guide articles to help you get 
 
 Article titles should be as short, concise, and to-the-point as possible.
 
-We want campers to quickly find the information they're looking for, and the title should reflect the main theme of the article.
+We want campers to quickly find the information they're looking for, and the title should reflect the main theme of the article. This makes everything better for everyone!
 
 Folder name is used in the URL, so only use dashes (-), numbers (0-9), and lowercase letters (a-z) for it.
 
