@@ -3,14 +3,20 @@ title: Dropdowns
 ---
 ## Dropdowns
 
-Bootstrap provides Dropdowns as a plugin for displaying lists of links.
-A dropdown is a button which toggles displaying a list of links.
+Bootstrap provides Dropdowns as a plugin for displaying lists of links or text.
+A dropdown is a button which toggles displaying of these links or text.
 
 Bootstrap’s dropdowns are designed to be generic and applicable to a variety of situations. For instance, it is possible to create dropdowns that contain search fields or login forms.
 
 ## Example
 
 ```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bootstrap Dropdowns</title>
+  </head>  
+<body>
 <div class="dropdown">
   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Dropdown example
@@ -21,6 +27,8 @@ Bootstrap’s dropdowns are designed to be generic and applicable to a variety o
     <a class="dropdown-item" href="#">Something else here</a>
   </div>
 </div>
+</body>
+</html>
 ```
 
 
