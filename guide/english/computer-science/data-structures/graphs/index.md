@@ -8,7 +8,7 @@ A graph consists of nodes and edges.
 A node (i.e. vertex) is an object in your graph. 
 A node can contain information such as the name of the node and which edges it is attached to.
 An edge is a link that connects two nodes.
-The edge can contain information such as the weight of the edge.
+The edge can contain information such as the weight of the edge!
 If two nodes are connected by an edge, they are neighbours (i.e. adjacent).
 
 Depending on the problem you can use either two-way (undirected) or one-way (directed) edges.
